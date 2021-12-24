@@ -1,4 +1,4 @@
-![Destiny](http://desire.sandman.finance/images/destiny-github.png)
+![Destiny](http://destiny.sandman.finance/images/destiny-github.png)
 Sandman Finance, the yield farm and blockchain platform that you can own!
  ## Hello Dreamers!
  > "You Shouldn't Trust The Story-Teller; Only Trust The Story."
